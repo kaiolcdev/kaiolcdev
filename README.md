@@ -20,8 +20,8 @@ Ainda estou construindo meu portfólio, mas aqui estão alguns projetos que gost
 
 ### 📫 Como me encontrar
 
-* **LinkedIn**: [https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/seu-usuario/)
-* **E-mail**: seu-email@exemplo.com
+* **LinkedIn**: [https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/kaiolucassantos/)
+* **E-mail**: kaioluccaas43@gmail.com
 
 ---
 
