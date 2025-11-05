@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Kaio! 👋
 
-<!--
-**kaiolcdev/kaiolcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil! Sou um(a) entusiasta de tecnologia e estou iniciando minha jornada no mundo da programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente estou aprendendo:
+
+* HTML5 e CSS3
+* JavaScript
+
+
+---
+
+### 🚀 Meus Principais Projetos de Estudo
+
+Ainda estou construindo meu portfólio, mas aqui estão alguns projetos que gostei de fazer:
+
+
+
+### 📫 Como me encontrar
+
+* **LinkedIn**: [https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/seu-usuario/)
+* **E-mail**: seu-email@exemplo.com
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+(Lembre-se de trocar `kaiolcdev` pelo seu nome de usuário!)
+
+![Estatísticas de Kaiolcdev no GitHub](https://github-readme-stats.vercel.app/api?username=kaiolcdev&show_icons=true&theme=dracula&include_all_commits=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolcdev&layout=compact&theme=dracula)
+
