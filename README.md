@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaio! 👋
 
-Bem-vindo(a) ao meu perfil! Sou um(a) entusiasta de tecnologia e estou iniciando minha jornada no mundo da programação.
+Bem-vindo(a) ao meu perfil! Sou um entusiasta de tecnologia e estou iniciando minha jornada no mundo da programação.
 
 ---
 
