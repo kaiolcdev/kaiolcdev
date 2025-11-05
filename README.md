@@ -25,11 +25,3 @@ Ainda estou construindo meu portfólio, mas aqui estão alguns projetos que gost
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-(Lembre-se de trocar `kaiolcdev` pelo seu nome de usuário!)
-
-![Estatísticas de Kaiolcdev no GitHub](https://github-readme-stats.vercel.app/api?username=kaiolcdev&show_icons=true&theme=dracula&include_all_commits=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolcdev&layout=compact&theme=dracula)
-
